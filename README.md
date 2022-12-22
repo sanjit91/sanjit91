@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sanjit Kairi
 - 👀 I’m interested in Coding
+- 🌱 I’m currently Working News Reporter at [![NewAbikol]](https://newabikol.in)
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on (----)
 - 📫 How to reach me [![Twitter]](https://twitter.com/@sanjitkoiri1)
